@@ -20,7 +20,7 @@ allprojects {
         appName = 'Magitek Pixel Dungeon'
         appPackageName = 'com.magitekpixel.magitekpixeldungeon'
 
-        appVersionCode = 802
+        appVersionCode = 803
         appVersionName = '2.5.4_based_1.0.0'
 
         appJavaCompatibility = JavaVersion.VERSION_1_8

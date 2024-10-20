@@ -17,10 +17,10 @@ buildscript {
 allprojects {
 
     ext {
-        appName = 'Magitek Pixel Dungeon'
-        appPackageName = 'com.magitekpixel.magitekpixeldungeon'
+        appName = 'Magic Pixel Dungeon'
+        appPackageName = 'com.magicpixel.magitekpixeldungeon'
 
-        appVersionCode = 803
+        appVersionCode = 804
         appVersionName = '2.5.4_based_1.0.0'
 
         appJavaCompatibility = JavaVersion.VERSION_1_8
